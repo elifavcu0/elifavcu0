@@ -35,14 +35,6 @@ Kariyer hedefim; **Backend** mimarileri ve modern web teknolojileri üzerine uzm
 
 ---
 
-### 📊 GitHub Aktivitesi
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elifavcu0&theme=dark&hide_border=true&date_format=d%20M%20Y" alt="Elif's GitHub Streak" />
-</p>
-
----
-
 ### 📫 İletişim
 
 <a href="https://www.linkedin.com/in/elifavcu/">
