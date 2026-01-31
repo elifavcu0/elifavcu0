@@ -37,9 +37,7 @@ Kariyer hedefim; **Backend** mimarileri ve modern web teknolojileri üzerine uzm
 
 ### 📊 GitHub Aktivitesi
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=elifavcu0&show_icons=true&theme=graywhite&hide_border=true&locale=tr" alt="Elif's Stats" />
-</p>
+![Elif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elifavcu0&show_icons=true&theme=dark&hide_border=true&locale=tr)
 
 ---
 
