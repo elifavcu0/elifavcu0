@@ -1,4 +1,4 @@
-### Merhaba, ben Elif Avcu.
+### Merhaba, ben Elif 👋
 
 Sakarya Üniversitesi **Bilgisayar Mühendisliği** 2. sınıf öğrencisiyim.
 
@@ -12,7 +12,7 @@ Kariyer hedefim; **Backend** mimarileri ve modern web teknolojileri üzerine uzm
 
 ### 💻 Teknik Yetkinlikler
 * **Ana Odak:** C#, ASP.NET Core, MVC
-* **Veritabanı & ORM:** Entity Framework Core, PostgreSQL
+* **Veritabanı & ORM:** Entity Framework Core, PostgreSQL, MSSQL
 * **Frontend:** HTML5, CSS3, Bootstrap, JavaScript, React
 * **Temel Mühendislik:** C++
 
