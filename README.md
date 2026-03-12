@@ -7,8 +7,8 @@ My biggest goal for the future is to specialize in **backend** architectures and
 ---
 
 ### 🚀 My Interests & Goals
-* 🌱I'm currently focusing deeply on **ASP.NET Core**, **Entity Framework**, and **MVC** architecture.
-* 🎯My biggest motivation is to contribute to enterprise-scale projects that solve real-world challenges and to evolve into a high-impact **Full-Stack developer with a focus on Backend**.
+* 🌱 I'm currently focusing deeply on **ASP.NET Core**, **Entity Framework**, and **MVC** architecture.
+* 🎯 My biggest motivation is to contribute to enterprise-scale projects that solve real-world challenges and to evolve into a high-impact **Full-Stack developer with a focus on Backend**.
 
 ### 📂 Featured Project: Liva Store
 I am actively developing **Liva Store**, an e-commerce platform built with **ASP.NET Core**. This project is my playground for implementing OOP principles, Separation of Concerns (SoC) through a layered folder structure, and secure authentication with ASP.NET Core Identity. I am building this e-commerce platform to practice building scalable and maintainable web applications while mastering the MVC pattern.
