@@ -15,6 +15,8 @@ I am actively developing **Liva Store**, an e-commerce platform built with **ASP
 
 [![View Repository](https://img.shields.io/badge/✨_View_Repository_✨-20232A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elifavcu0/liva-store)
 
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-512BD4?style=for-the-badge&logo=rocket&logoColor=white)](https://livastore.com.tr/)
+
 ### 💻 Tech Stack
 
 <b>Backend & Core Engineering</b>
