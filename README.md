@@ -1,6 +1,6 @@
 ![Hello I'm Elif](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=512BD4&width=435&lines=Hello+I%27m+Elif+%F0%9F%91%8B)
 
-I'm a second-year Computer Engineering student at Sakarya University, and I strive to improve myself every day.
+I'm a rising third-year Computer Engineering student at Sakarya University, and I strive to improve myself every day.
 
 My biggest goal for the future is to specialize in **backend** architectures and modern web technologies, developing sustainable, scalable, and clean-code software. I bridge the gap between the theoretical foundations gained at university and industry dynamics, dedicated to transforming them into enterprise-quality projects.
 
