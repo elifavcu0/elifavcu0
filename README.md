@@ -1,17 +1,24 @@
 ![Hello I'm Elif](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=512BD4&width=435&lines=Hello+I%27m+Elif+%F0%9F%91%8B)
 
-I'm a rising third-year Computer Engineering student at Sakarya University, and I strive to improve myself every day.
+I'm a 3rd year **Computer Engineering** student at Sakarya University, also pursuing a double major in **Electrical & Electronics Engineering**.
 
-My biggest goal for the future is to specialize in **backend** architectures and modern web technologies, developing sustainable, scalable, and clean-code software. I bridge the gap between the theoretical foundations gained at university and industry dynamics, dedicated to transforming them into enterprise-quality projects.
+Having a solid foundation in **Web Backend Architecture**, I am currently expanding my skill set into **Embedded Systems**. My goal is to bridge software design patterns with low-level systems programming.
 
 ---
+### 🌐 Web & Backend Foundations
+* 🛠️ Developing web systems with C#, ASP.NET Core MVC, and EF Core.
+* 🗄️ Database normalization, ORM patterns, and SQL server management (MS SQL, PostgreSQL).
+* ⚙️ OOP, Separation of Concerns (SoC), SOLID Principles and Clean Code practices.
 
-### 🚀 My Interests & Goals
-* 🌱 I'm currently focusing deeply on **ASP.NET Core**, **Entity Framework**, and **MVC** architecture.
-* 🎯 My biggest motivation is to contribute to enterprise-scale projects that solve real-world challenges and to evolve into a high-impact **Full-Stack developer with a focus on Backend**.
+### 🔬 Embedded Systems Learning Journey
+* ⚡ **Core Focus:** C / C++ programming languages, microcontroller fundamentals (STM32, Arduino).
+* 📡 **Hardware & Simulation:** Basic peripheral drivers, STM32CubeIDE, Proteus simulation.
+* 💡 **Practice:** Building bare-metal fundamentals step by step using C and STM32 microcontroller peripherals.
+* ⚙️ **Active Learning:** Evolving my practical skills in hardware-software integration, sensor data processing, and communication protocols through active participation in engineering teams and competitions.
 
+  
 ### 📂 Featured Project: Liva Store
-I am actively developing **Liva Store**, an e-commerce platform built with **ASP.NET Core**. This project is my playground for implementing OOP principles, Separation of Concerns (SoC) through a layered folder structure, and secure authentication with ASP.NET Core Identity. I am building this e-commerce platform to practice building scalable and maintainable web applications while mastering the MVC pattern.
+**Liva Store** is an e-commerce platform built with **ASP.NET Core**. This project is my playground for implementing OOP principles, Separation of Concerns (SoC) through a layered folder structure, and secure authentication with ASP.NET Core Identity. I am building this e-commerce platform to practice building scalable and maintainable web applications while mastering the MVC pattern.
 
 [![View Repository](https://img.shields.io/badge/✨_View_Repository_✨-20232A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elifavcu0/liva-store)
 
@@ -19,13 +26,11 @@ I am actively developing **Liva Store**, an e-commerce platform built with **ASP
 
 ### 💻 Tech Stack
 
-<b>Backend & Core Engineering</b>
+<b>Backend & Software Engineering</b>
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows%20Forms-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
 
 <b>Databases & ORM</b>
@@ -37,16 +42,23 @@ I am actively developing **Liva Store**, an e-commerce platform built with **ASP
 
 <b>Frontend Development</b>
 <p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
+**Embedded & Low-Level (In Progress)**
+<p align="left">
+<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
+</p>
+
 <b>Tools & Environment</b>
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows%20Forms-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
